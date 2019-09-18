@@ -1,7 +1,6 @@
 import React from 'react';
 
 export class Countries extends React.Component {
-
     render() {
         return (
             <div className="countries">
